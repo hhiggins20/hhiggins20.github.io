@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Hunter Higgins",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/hhiggins20.png",
+    "email": "hhiggins@hawaii.edu",
+    "phone": "808-359-1862",
+    "website": "https://hhiggins20.github.io",
+    "summary": "I am studying for a B.S. in Accounting and MIS at Shilder College of Business at University of Hawaii at Manoa, I expect to graduate undergrad in spring 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "hhiggins20", "url": "http://github.com/hhiggins20" },
+      { "network": "linkedin", "username": "hunter-higgins-290708230", "url": "http://linkedin.com/in/hunter-higgins-290708230" },
+      { "network": "twitter", "username": "", "url": "" },
+      { "network": "instagram", "username": "", "url": "" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Accounting" },
+    { "name": "Programming" },
+    { "name": "Sports Management" },
+    { "name": "Architecture" },
+    { "name": "Software Development" }
   ],
   "skills": [
     {
