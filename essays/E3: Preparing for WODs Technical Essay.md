@@ -11,10 +11,9 @@ labels:
 
 ## Introduction
 
-The WOD that I am writing this essay about is Invoice 1 WOD.  The link to the WOD instructions is this.
-<br>
-https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html 
-<br>
+The WOD that I am writing this essay about is Invoice 1 WOD.  The link to the WOD instructions is <a href="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html"> 
+this</a>.
+
 This was the last WOD that I completed and it was due on February 13th.
 
 ## My Experience With Invoice 1
