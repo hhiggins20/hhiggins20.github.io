@@ -6,8 +6,7 @@ title: "E5: Reflecting on Assignment 2 Technical Essay"
 date: 2023-04-25
 published: true
 labels: 
-MIS 
-
+ - MIS 
 ---
 
 # Provide a brief introduction to the assignment along with a link to this page for further details:
@@ -36,7 +35,7 @@ I think I spend around 40% of my time thinking about how to do something, as I w
 
 # Describe what worked well with this project? What did not work well?
 
-I think what worked well on this project was thinking outside of the box and using code that I did research myself instead of using the code that we worked on in class.  A lot of the things that I needed to do with my website were just not working the way they should have so I began to look outside of the box to solve my issues.  Some thing that did not work that well with this project was using AI to help with my issues.  At one point my code became so long that it was unreadable by any AI software and I was on my one when it came to solving issues that I had in my code.
+I think what worked well on this project was thinking outside of the box and using code that I did research myself instead of using the code that we worked on in class.  A lot of the things that I needed to do with my website were just not working the way they should have so I began to look outside of the box to solve my issues.  Something that did not work that well with this project was using AI to help with my issues.  At one point my code became so long that it was unreadable by any AI software and I was on my one when it came to solving issues that I had in my code.
 
 # If you could go back in time and do things differently, what would you do differently?
 
