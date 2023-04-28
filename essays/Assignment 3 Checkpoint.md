@@ -1,6 +1,6 @@
 ---
-layout: blog
-type: blog
+layout: essay
+type: essay
 title: "Assignment 3 Checkpoint"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-27
