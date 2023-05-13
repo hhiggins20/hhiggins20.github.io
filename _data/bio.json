@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "Hunter Higgins",
+    "label": "Shidler Undergraduate",
+    "picture": "https://github.com/hhiggins20.png",
+    "email": "hhiggins@hawaii.edu",
+    "phone": "808-359-1862",
+    "website": "https://hhiggins20.github.io",
+    "summary": "I am currently studying for a B.S. in Accounting and MIS at the University of Hawaii as a junior and I expect to graduate in spring 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "hhiggins20", "url": "http://github.com/hhiggins20" },
+      { "network": "linkedin", "username": "hunter-higgins-290708230", "url": "http://linkedin.com/in/hunter-higgins-290708230" },
+      { "network": "twitter", "username": "", "url": "" },
+      { "network": "instagram", "username": "", "url": "" }
+    ]
+  },
+  "interests": [
+    { "name": "Accounting" },
+    { "name": "Programming" },
+    { "name": "Sports Management" },
+    { "name": "Architecture" },
+    { "name": "Software Development" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Accounting and MIS (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-17",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "WBM Inc.",
+      "position": "Tax Intern",
+      "website": "",
+      "startDate": "2022-04-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ""
+    }
+  ],
+  "volunteer": [
+  ],
+  "awards": [
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
